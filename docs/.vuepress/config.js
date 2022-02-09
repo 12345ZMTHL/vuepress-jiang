@@ -1,7 +1,7 @@
 module.exports = {
     title: "个人博客",
     description: "个人博客",
-    base: './docs',
+    base: '/dist',
     themeConfig: {
         searchMaxSuggestions: 10,
         // algolia 账户，全局搜索
