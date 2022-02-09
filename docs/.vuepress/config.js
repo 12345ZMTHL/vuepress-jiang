@@ -20,6 +20,8 @@ module.exports = {
         sidebar: [
             '/',
         ],
+        repo: "https://github.com/12345ZMTHL/vuepress-jiang",
+        repoLabel: "GitHub"
     },
     plugins: [
         ["@tencent/vuepress-plugin-element-tabs"],
